@@ -5,7 +5,7 @@ A responsive Spotify-inspired music player built with **HTML, CSS, and JavaScrip
 ## Live Demo
 
 **View the project here:**
-https://your-project-name.vercel.app
+https://spotify-clone-swart-one.vercel.app/
 
 ---
 
